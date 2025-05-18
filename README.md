@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I am marine!
 
-<!--
-**marine-matebie/marine-matebie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer passionate about building clear and scalable web application.
 
-Here are some ideas to get you started:
+## what I'm learning 
+-programming fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests 
+-ethical hacking 
+-learning how things working under the hood 
+
+## contact me 
+marinematebie81@gmail.com 
+thankyou
